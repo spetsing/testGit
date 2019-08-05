@@ -1,3 +1,3 @@
-function test(param1, param3) {
+function test(param1, param4) {
 
 }
